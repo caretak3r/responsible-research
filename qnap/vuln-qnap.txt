@@ -1,0 +1,12 @@
+# paths
+/p/api/video.php
+/photo/p/api/video.php
+/photo/slideshow.php
+/cgi-bin
+/etc/config/.app_token
+/share/Multimedia/.@__thumb/ps.app.token
+/share/./../etc/passwd
+
+# search query
+Content-Length:580 "http server 1.0"
+
