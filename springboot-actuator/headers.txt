@@ -1,0 +1,14 @@
+---
+Content-Type: application/vnd.spring-boot.actuator.v3+json
+Content-Length: 121
+
+---
+$ curl -i localhost:8080/health
+HTTP/1.1 200
+X-Application-Context: application
+Content-Type: application/vnd.spring-boot.actuator.v1+json;charset=UTF-8
+Content-Length: 15
+
+{"status":"UP"}
+
+---

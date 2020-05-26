@@ -1,0 +1,7 @@
+The target site has enabled unauthorized access to the env endpoint, the path is: http://1.2.3.4:9090/actuator/env
+The target site has enabled unauthorized access to the beans endpoint, the path is: http://1.2.3.4:9090/actuator/beans
+The target site has enabled unauthorized access to the configprops endpoint, the path is: http://1.2.3.4:9090/actuator/configprops
+The target site has enabled unauthorized access to the health endpoint, the path is: http://1.2.3.4:9090/actuator/health
+The target site has enabled unauthorized access to the info endpoint, the path is: http://1.2.3.4:9090/actuator/info
+The target site has enabled unauthorized access to the mappings endpoint, the path is: http://1.2.3.4:9090/actuator/mappings
+The target site has enabled unauthorized access to the metrics endpoint, the path is: http://1.2.3.4:9090/actuator/metrics

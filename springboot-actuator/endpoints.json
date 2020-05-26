@@ -1,0 +1,84 @@
+{
+	"_links": {
+		"self": {
+			"href": "http://1.2.3.4:9090/actuator",
+			"templated": false
+		},
+		"beans": {
+			"href": "http://1.2.3.4:9090/actuator/beans",
+			"templated": false
+		},
+		"caches-cache": {
+			"href": "http://1.2.3.4:9090/actuator/caches/{cache}",
+			"templated": true
+		},
+		"caches": {
+			"href": "http://1.2.3.4:9090/actuator/caches",
+			"templated": false
+		},
+		"health": {
+			"href": "http://1.2.3.4:9090/actuator/health",
+			"templated": false
+		},
+		"health-path": {
+			"href": "http://1.2.3.4:9090/actuator/health/{*path}",
+			"templated": true
+		},
+		"info": {
+			"href": "http://1.2.3.4:9090/actuator/info",
+			"templated": false
+		},
+		"conditions": {
+			"href": "http://1.2.3.4:9090/actuator/conditions",
+			"templated": false
+		},
+		"configprops": {
+			"href": "http://1.2.3.4:9090/actuator/configprops",
+			"templated": false
+		},
+		"env": {
+			"href": "http://1.2.3.4:9090/actuator/env",
+			"templated": false
+		},
+		"env-toMatch": {
+			"href": "http://1.2.3.4:9090/actuator/env/{toMatch}",
+			"templated": true
+		},
+		"logfile": {
+			"href": "http://1.2.3.4:9090/actuator/logfile",
+			"templated": false
+		},
+		"loggers": {
+			"href": "http://1.2.3.4:9090/actuator/loggers",
+			"templated": false
+		},
+		"loggers-name": {
+			"href": "http://1.2.3.4:9090/actuator/loggers/{name}",
+			"templated": true
+		},
+		"heapdump": {
+			"href": "http://1.2.3.4:9090/actuator/heapdump",
+			"templated": false
+		},
+		"threaddump": {
+			"href": "http://1.2.3.4:9090/actuator/threaddump",
+			"templated": false
+		},
+		"metrics": {
+			"href": "http://1.2.3.4:9090/actuator/metrics",
+			"templated": false
+		},
+		"metrics-requiredMetricName": {
+			"href": "http://1.2.3.4:9090/actuator/metrics/{requiredMetricName}",
+			"templated": true
+		},
+		"scheduledtasks": {
+			"href": "http://1.2.3.4:9090/actuator/scheduledtasks",
+			"templated": false
+		},
+		"mappings": {
+			"href": "http://1.2.3.4:9090/actuator/mappings",
+			"templated": false
+		}
+	}
+}
